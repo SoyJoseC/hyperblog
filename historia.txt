@@ -7,3 +7,5 @@ Tiene 23 años.
 En camara parece alto pero, no es tan alto.
 
 Hoy es el CTO de Platzi.
+
+Hoy hablaremos de su historia.
